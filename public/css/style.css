@@ -1,0 +1,15 @@
+.menu {
+    color: rgb(225, 156, 65);
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 0.5em;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(245, 255, 159);
+    border: rgb(238, 87, 0);
+    color: rgb(238, 87, 0);
+
+}
